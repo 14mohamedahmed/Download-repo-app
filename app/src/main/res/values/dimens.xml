@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="radio_padding_top">16dp</dimen>
+    <dimen name="radio_padding_bottom">16dp</dimen>
+    <dimen name="radio_margin_bottom">16dp</dimen>
+    <dimen name="radio_margin_start">16dp</dimen>
+    <dimen name="radio_margin_end">16dp</dimen>
+
+    <dimen name="default_text_size">20sp</dimen>
+</resources>
